@@ -1202,7 +1202,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d187b1;
+  background: #ffffac;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2695,7 +2695,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://cdn.discordapp.com/attachments/909283247773581332/972478057480855602/unknown.png");
+  background: url("https://iw233.cn/api.php?sort=pc");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
